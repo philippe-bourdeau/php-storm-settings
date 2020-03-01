@@ -1,0 +1,10 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/home/pbb/code/finance/docker-php-fpm/docker-compose.yml]:node/node" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="node" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/code/finance/docker-php-fpm/docker-compose.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
+  </component>
+</application>
