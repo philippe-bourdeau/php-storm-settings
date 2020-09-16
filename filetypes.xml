@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignor" type="Erlang" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".sh_functions" type="PLAIN_TEXT" />
       <mapping ext="disable" type="PLAIN_TEXT" />
