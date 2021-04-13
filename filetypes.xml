@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignor" type="Erlang" />
+      <mapping pattern="HornetClientConfiguration" type="PHP" />
       <mapping pattern="recap" type="PLAIN_TEXT" />
+      <mapping pattern=".sh_functions" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".sh_functions" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="disable" type="PLAIN_TEXT" />
     </extensionMap>
