@@ -9,6 +9,7 @@
       <mapping pattern="TestClient" type="PHP" />
       <mapping pattern="HornetClientConfiguration" type="PHP" />
       <mapping pattern="recap" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".sh_functions" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
